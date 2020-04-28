@@ -1,0 +1,49 @@
+﻿  CIS023_S2020_HW17.cpp
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW17 Miguel Antonio Logarta\CIS023_S2020_HW17\CIS023_S2020_HW17.cpp(153,47): warning C4302: 'type cast': truncation from 'HWND' to 'WORD'
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW17 Miguel Antonio Logarta\CIS023_S2020_HW17\CIS023_S2020_HW17.cpp(159,47): warning C4302: 'type cast': truncation from 'HWND' to 'WORD'
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW17 Miguel Antonio Logarta\CIS023_S2020_HW17\CIS023_S2020_HW17.cpp(165,52): warning C4302: 'type cast': truncation from 'HWND' to 'WORD'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2388,23): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2399): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2399): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2379): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2379): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW17 Miguel Antonio Logarta\CIS023_S2020_HW17\Utilities.h(104): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW17 Miguel Antonio Logarta\CIS023_S2020_HW17\Utilities.h(103): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW17 Miguel Antonio Logarta\CIS023_S2020_HW17\CIS023_S2020_HW17.cpp(307): message : see reference to function template instantiation 'void TCHARtoString<std::string>(TCHAR *,Type *)' being compiled
+          with
+          [
+              Type=std::string
+          ]
+  CIS023_S2020_HW17.vcxproj -> D:\Desktop\CIS 022 HW\CIS023_S2020_HW17 Miguel Antonio Logarta\Debug\CIS023_S2020_HW17.exe
